@@ -27,8 +27,8 @@ public class UserMealsUtil {
     public static List<UserMealWithExceed>  getFilteredWithExceeded(List<UserMeal> mealList, LocalTime startTime, LocalTime endTime, int caloriesPerDay) {
         // TODO return filtered list with correctly exceeded field
         /*-  должны возвращаться только записи между startTime и endTime
-                -  поле UserMealWithExceed.exceed должно показывать,
-                превышает ли сумма калорий за весь день параметра метода caloriesPerDay
+          -  поле UserMealWithExceed.exceed должно показывать,
+             превышает ли сумма калорий за весь день параметра метода caloriesPerDay
                 */
 
         return null;
