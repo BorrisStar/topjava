@@ -8,6 +8,7 @@ package ru.javawebinar.topjava;
  * @link https://github.com/JavaOPs/topjava
  */
 public class Main {
+    //First commit
     public static void main(String[] args) {
         System.out.format("Hello Topjava Enterprise!");
     }
